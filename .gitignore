@@ -2,3 +2,5 @@
 .db3
 .pyc
 .idea
+__pycache__/
+*.pyc
